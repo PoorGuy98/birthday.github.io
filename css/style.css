@@ -1004,9 +1004,7 @@ span {
     width: 60%;
     background-color: rgb(240, 238, 255, 0.5);
     opacity: 0.8;
-    margin-left: 400px;
-    margin-top: 130px;
-    margin-bottom: 200px;
+    margin:130px auto;
     border-radius: 20px;
     border: 1px solid rgb(205, 187, 250);
     cursor: pointer;
@@ -1038,6 +1036,7 @@ span {
 }
 
 .wen {
+    float:left;
     padding: 0 30px;
     text-indent: 4em;
     font-family: "微软雅黑";
